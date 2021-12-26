@@ -1,0 +1,23 @@
+Welcome to the freshman immigration planner,
+where the goal is to help you succeed!
+
+1. The *sticky notes* feature where you can delete
+and add notes as you like. 
+
+2. Use the *time tracker* to know how long 
+you spent studying a course.
+
+3. Explore *settings* where you can add courses 
+and add their respective office hours, delete all
+configuration, or view all time statistics
+
+4. Use the *statistics* feature to view a 
+pie chart of progress by day/week/month 
+
+5. Investigate the *office hours* feature to
+never miss a time when you have questions
+
+
+Made with ♡ by Aya Al Sabahi
+Term project 15-112 Fall 2021
+Find me at asabahi@andrew.cmu.edu
