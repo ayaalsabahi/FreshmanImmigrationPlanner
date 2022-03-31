@@ -1,5 +1,5 @@
 Project Description:
-    Targeted towards freshman who are unsure how to manage thieri time, heavily inspired by the freshman immigration class
+    Targeted towards freshman who are unsure how to manage thier time, heavily inspired by the freshman immigration class
     and what i have learned form it. 
     It is a full application that esnures freshman keep track of time.
     Tracks how long a user has spent working on a subject and gives a pie chart by day/month/week
