@@ -1,10 +1,7 @@
 Project Description:
     Targeted towards freshman who are unsure how to manage thier time, heavily inspired by the freshman immigration class
-    and what i have learned form it. 
-    It is a full application that esnures freshman keep track of time.
-    Tracks how long a user has spent working on a subject and gives a pie chart by day/month/week
-    User is able to add office hours and view them by day
-    user can also add sticky notes and a list of tasks
+    and what i have learned form it. Made with hopes of making transition from high school to university easier as I struggled in transitioning myself due to how differently one has to approach them. Helps track time put into courses. Has an Office hours view and sticky notes feature. Visualization of time spent using a pie chart. Scalability to track by day, week, month, and view all time statistics.
+    
     
 Detailed project Description:
     ‣The home page:
